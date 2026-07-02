@@ -1,0 +1,31 @@
+<svg viewBox="0 0 640 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon: abstract S built from connected nodes (web/app network motif) -->
+  <g transform="translate(20,30)">
+    <rect x="0" y="0" width="140" height="140" rx="32" fill="url(#g1)"/>
+    <path d="M100 38
+             C100 22 86 18 70 18
+             C54 18 42 26 42 40
+             C42 56 58 60 70 63
+             C86 67 100 71 100 88
+             C100 104 86 112 70 112
+             C54 112 40 106 40 90"
+          stroke="white" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <circle cx="42" cy="40" r="7" fill="white"/>
+    <circle cx="100" cy="88" r="7" fill="white"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="185" y="105" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#111827">
+    Synvex
+  </text>
+  <text x="185" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="6" fill="#4F46E5">
+    TECHNOLOGIES
+  </text>
+</svg>
